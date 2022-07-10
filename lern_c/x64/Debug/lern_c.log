@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\brati\OneDrive\Рабочий стол\programing\C++\lern_c\lern_c\Source.cpp(22,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lern_c.vcxproj -> C:\Users\brati\OneDrive\Рабочий стол\programing\C++\lern_c\x64\Debug\lern_c.exe
